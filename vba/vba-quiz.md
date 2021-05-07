@@ -60,7 +60,7 @@ TestArray(2) = 3
 Total = WorksheetFunction.Sum(TestArray)
 End Sub
 ```
-- [ ] 3
+- [X] 3
 - [ ] 0
 - [ ] 9
 - [ ] 6
